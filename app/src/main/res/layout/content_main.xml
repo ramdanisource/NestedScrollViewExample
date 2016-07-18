@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.ramdani_linux.nestedscrollviewexample.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lorem ipsum dolor sit amet, ea placerat mnesarchum persequeris mel, eum et scaevola antiopam. Et stet everti senserit cum. Everti graecis epicurei te ius. No vix omnes omittam, an nonumy oporteat cum.
+
+Homero invidunt conceptam in pri. In mei facer animal consequat, cu saepe suscipiantur ius. Aeterno repudiandae eu mea. Nihil zril omittam usu ut, quidam ceteros perpetua no vis, clita libris praesent usu ad. Cu illum lucilius incorrupte ius, sea prompta torquatos incorrupte te, eripuit dignissim in duo.
+
+Mel ne commodo dolorum electram, pro te periculis dignissim. Case feugiat adolescens eam ex. Suas noluisse cotidieque nam te, ea eam simul altera. Nam ut atqui virtute moderatius, ei pro vide vitae admodum. In iisque inimicus omittantur per, quas iusto ius ne, ea zril ridens eum. Ne his quem minim corpora, oratio oblique legendos usu ut. At mea legere nominavi, ius menandri consulatu cu.
+
+Debet feugait eum ea. Ex mel mutat noster suscipiantur, cum veri neglegentur eu. Usu odio impedit evertitur ne, id his mnesarchum sadipscing. Purto temporibus eu pri. Ex tollit nemore iracundia vis.
+
+Legimus eleifend ne nec, nam in nihil zril adversarium. Dolorem imperdiet id vix. Vivendum legendos id nam. Cu quo vero consequuntur, vix et feugait platonem interesset. Sea agam nibh ei.
+
+Case justo mentitum id vim, brute viderer at cum. Efficiantur intellegebat consectetuer id pro, vix elitr numquam suscipit ne, no pro lobortis intellegebat. Hinc ubique recusabo cu has. Adhuc feugiat ad eum, vim meliore ancillae ad.
+
+Equidem scaevola oportere pri eu, quod omnium cotidieque his id. Suavitate argumentum delicatissimi nec ei, vulputate dissentiet necessitatibus te eos. Vel an facer essent sapientem, agam numquam ei usu, exerci fastidii consectetuer id sea. Vel id assum dolorem, no nibh mucius quo, nam ad agam percipitur.
+
+Qui no natum aliquando. Sint suavitate accommodare eum ei, eum in suavitate maluisset constituam. At ius odio putent, et pro erat imperdiet. Qui in sanctus rationibus, id per harum munere.
+
+Ad vis mazim possim, etiam argumentum deterruisset at vel. Sit ea facilisi moderatius dissentias, ne quaeque probatus has. Sed case deseruisse ne. Ea his iriure volumus epicuri, mel amet sadipscing cu. No est aliquip vocibus tacimates, an pertinax aliquando has. Qui amet altera detracto at, at quo noster eligendi.
+
+Te his erroribus repudiare assentior, mandamus mediocritatem ea per, pro at velit delicata. Ei est tation appareat persequeris. Quem eirmod ne mea, erant doctus consulatu est id. Et vide dicit putant has.
+
+Mel ex porro detracto. Ex mei aliquip definitiones delicatissimi, an mei postea essent animal, nec invenire dissentias ea. Ne vero reprehendunt nec, exerci assentior efficiendi his at, ad ius magna justo. Vim reque patrioque ea, duis etiam alienum sit et. No omittam constituto qui. Cu pericula adipiscing vel.
+
+Mea id duis omittantur mediocritatem. Ad modus iudico integre his. Odio ullum aperiri te sed, pri ne simul singulis. Timeam disputationi cu mea, vis nullam principes similique eu. Tritani electram similique his ei, mel no facilisi praesent definitionem.
+
+Porro dolore conceptam at pri, latine denique accumsan te has, id qui modus discere. Integre minimum mei ad. Duo in homero evertitur, pri dicunt posidonium id, ut vix quem elitr possim. Et enim omnes sea, ius graece antiopam ut.
+
+Ne duo meis probatus, magna perfecto per cu. Vim cu tota vitae oblique, ad labitur dolorem quo. Ei elit laboramus rationibus mei, eu principes urbanitas mei. Ea animal expetenda reformidans vim, bonorum nonumes propriae an has. An cetero consulatu per, et tempor viderer pro, cu etiam inani eripuit mel. Laudem quaestio eu mea, partem scribentur appellantur vel ne.
+
+Id eam volumus omittantur, ne est fierent tincidunt. Nam in eros delectus laboramus, quidam bonorum probatus duo ei, usu alii veniam ocurreret at. Blandit electram cu sed, tollit adolescens sea id. Duo an saepe singulis sententiae, an sea falli quaeque, ad eam hinc imperdiet. Soluta luptatum eos eu, usu probo eripuit instructior id, eam ne ferri commune molestie. His vocent suavitate dissentiunt te, modo harum bonorum usu ei, in usu zril mediocrem intellegebat.
+
+Vim ne placerat platonem, labores mandamus ut est. Clita vitae molestie an usu, vix nostrud invenire no. Ex doctus dolorem nam. Odio voluptatibus no eam." />
+</RelativeLayout>
